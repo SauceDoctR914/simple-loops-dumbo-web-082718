@@ -7,7 +7,8 @@ def loop_iterator(number_of_times)
   end
     break if 
     num = 4
-  end# REMEMBER: print your output to the terminal using 'puts'
+  end
+  # REMEMBER: print your output to the terminal using 'puts'
 
 
   # Code your solution here using the "loop" keyword to puts out the below phrase

@@ -4,10 +4,11 @@ def loop_iterator(number_of_times)
   loop do
     puts phrase
     num += 1
+  end
   if num >= number_of_times 
      break
      
-  end
+
 end
   # REMEMBER: print your output to the terminal using 'puts'
 

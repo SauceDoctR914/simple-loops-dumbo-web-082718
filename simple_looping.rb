@@ -8,7 +8,7 @@ def loop_iterator(number_of_times)
    
     break if 
     
-    num = 4
+    num == 4
   end
   # REMEMBER: print your output to the terminal using 'puts'
 

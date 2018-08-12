@@ -1,4 +1,13 @@
-
+def loop_iterator(number_of_times)
+  phrase = "Welcome to Flatiron School's Web Development Course!"
+  num = 0
+  loop do
+    puts phrase
+    num += 1
+    if num >= number_of_times 
+    break
+  end
+end
   # REMEMBER: print your output to the terminal using 'puts'
 
 

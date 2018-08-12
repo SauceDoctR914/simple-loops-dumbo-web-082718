@@ -5,7 +5,9 @@ def loop_iterator(number_of_times)
     puts phrase
     num += 1
   end
+   
     break if 
+    
     num = 4
   end
   # REMEMBER: print your output to the terminal using 'puts'

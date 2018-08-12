@@ -3,8 +3,8 @@ def loop_iterator(number_of_times)
   num = 0
   loop do
     puts phrase
+    num += 1
   end
-  num += 1
     break if number_of_times = num
   end# REMEMBER: print your output to the terminal using 'puts'
 
